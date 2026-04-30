@@ -36,7 +36,7 @@
 - Consider reviewing or discontinuing consistently underperforming products.
 
 # Visual Analysis
-- ![image alt](image_url)https:
+- ![image alt](image_url)https://github.com/mthobisifortunemhoni-hash/product-sales-analysis/blob/main/pivot-table-and-bar-chart.png.png?raw=true
 
 # Agile Workflow (Jira)
 # User Stories
