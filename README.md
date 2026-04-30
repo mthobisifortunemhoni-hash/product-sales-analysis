@@ -45,7 +45,7 @@
 - As a business manager, I want to understand product sales trends so that I can make informed business decisions.
 
 # Jira Board
-- 
+- ![image alt](image_url)
 
 # Agile Implementation
 - Created user stories to define business requirements.  
