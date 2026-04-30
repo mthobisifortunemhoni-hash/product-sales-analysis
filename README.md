@@ -35,17 +35,23 @@
 - Leverage characteristics of top-performing products to improve performance of weaker products.
 - Consider reviewing or discontinuing consistently underperforming products.
 
+# Visual Analysis
+- 
+
 # Agile Workflow (Jira)
 # User Stories
 - As a business manager, I want to identify top-selling products so that I can focus on high-performing items.
 - As a business manager, I want to identify low-performing products so that I can improve overall profitability.
 - As a business manager, I want to understand product sales trends so that I can make informed business decisions.
 
+# Jira Board
+- 
+
 # Agile Implementation
 - Created user stories to define business requirements.  
 - Managed tasks using Scrum methodology.  
 - Moved tasks through To Do → In Progress → Done. 
-- Simulated Agile workflow using Jira.  
+- Simulated Agile workflow using Jira.
 
 # Conclusion
 - This analysis demonstrates how data can be used to identify performance patterns and support strategic decision-making. The insights generated can help businesses optimize product   offerings and improve overall sales performance.
